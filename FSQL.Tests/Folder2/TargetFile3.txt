@@ -1,0 +1,1 @@
+﻿This is target file 3 in Folder2.
